@@ -3,7 +3,7 @@
 # project subdirectory.
 #
 
-PROJECT_NAME := wallclock
+PROJECT_NAME := miniSPI
 ##COMPONENT_DIRS = src_appl
 EXTRA_CXXFLAGS = -fno-use-linker-plugin
 EXTRA_COMPONENT_DIRS := ./main/TinyBasic
